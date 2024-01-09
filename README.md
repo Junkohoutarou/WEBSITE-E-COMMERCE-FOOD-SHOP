@@ -138,8 +138,6 @@ $ yarn run dev
 
 ## Link Demo
 
-link: [https://fe.ie104.customafk.com](http://fe.ie104.customafk.com/)
-
 ## How to push
 
 - Role commit
