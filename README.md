@@ -57,7 +57,7 @@ yarn prepare
 - Run Client
 
 ```bash
-$ cd ./ie104-front-end
+$ cd ./WEBSITE-E-COMMERCE-FOOD-SHOP
 $ yarn run dev
 ```
 
