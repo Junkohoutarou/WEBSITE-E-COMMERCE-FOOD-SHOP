@@ -26,7 +26,7 @@ This is Project Web IE104. I hope it can help you sometime in the future. So whe
 1. Clone the repo
 
 ```bash
-git clone git@github.com:QuangPhamvt/ie104-front-end.git
+https://github.com/Junkohoutarou/WEBSITE-E-COMMERCE-FOOD-SHOP.git
 ```
 
 2. Install yarn packages
@@ -34,7 +34,7 @@ git clone git@github.com:QuangPhamvt/ie104-front-end.git
 - Client
 
 ```bash
-$ cd ./ie104-front-end
+$ cd ./WEBSITE-E-COMMERCE-FOOD-SHOP
 $ yarn install
 ```
 
